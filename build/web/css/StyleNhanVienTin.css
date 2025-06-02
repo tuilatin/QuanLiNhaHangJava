@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f7f9fc;
+  min-height: 100vh;
+}
+.header {
+  background: #343a40;
+  color: #fff;
+  padding: 16px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 20px;
+}
+.header .right {
+  font-size: 16px;
+}
+.main-container {
+  display: flex;
+  min-height: 100vh;
+}
+.sidebar {
+  width: 320px;
+  background: none;
+  color: #222;
+  padding: 0;
+  min-height: 100vh;
+}
+.sidebar .menu-box {
+  background: #fff;
+  border-radius: 6px;
+  margin: 24px 0 0 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  overflow: hidden;
+}
+.sidebar h4 {
+  background: #1976d2;
+  color: #fff;
+  margin: 0;
+  padding: 16px 20px;
+  font-size: 18px;
+  border-bottom: 1px solid #1565c0;
+  display: flex;
+  align-items: center;
+}
+.sidebar h4 .material-icons {
+  margin-right: 8px;
+}
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.sidebar ul li {
+  border-bottom: 1px solid #f0f0f0;
+}
+.sidebar ul li:first-child a {
+  background: #fff;
+  color: #222;
+  font-weight: normal;
+}
+.sidebar ul li a {
+  display: flex;
+  align-items: center;
+  color: #222;
+  text-decoration: none;
+  padding: 14px 20px;
+  font-size: 16px;
+  transition: background 0.2s, color 0.2s;
+}
+.sidebar ul li a .material-icons {
+  margin-right: 10px;
+  font-size: 20px;
+}
+.sidebar ul li a:hover {
+  background: #e3f2fd;
+  color: #1976d2;
+}
+.content {
+  flex: 1;
+  background: #fafbfc;
+  padding: 20px; /* thêm padding cho đẹp */
+  overflow: auto; /* giúp cuộn khi nội dung dài */
+}
+
+.loading-box {
+  width: 100%;
+  text-align: center;
+  margin-top: 80px;
+}
+.loading-box h1 {
+  font-size: 32px;
+  color: #222;
+  font-weight: 500;
+}
+@media (max-width: 900px) {
+  .main-container {
+    flex-direction: column;
+  }
+  .sidebar {
+    width: 100%;
+    min-height: unset;
+  }
+  .sidebar .menu-box {
+    margin: 0;
+    border-radius: 0;
+  }
+}
+
