@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/JAVA%20NANG%20CAO/web_nhahang%20PRO/src/java/entity/KhachHang.java</file>
+            <file>file:/E:/JAVA%20NANG%20CAO/web_nhahang%20PRO/web/AdminChiTietHoaDon.jsp</file>
+            <file>file:/E:/JAVA%20NANG%20CAO/web_nhahang%20PRO/src/java/dao/chatDAO.java</file>
+            <file>file:/E:/JAVA%20NANG%20CAO/web_nhahang%20PRO/web/AdminEditKhachHang.jsp</file>
+            <file>file:/E:/JAVA%20NANG%20CAO/web_nhahang%20PRO/src/java/control/cart/LoadCart.java</file>
+            <file>file:/E:/JAVA%20NANG%20CAO/web_nhahang%20PRO/src/java/control/KhachHang/CapNhatTrangThaiDon.java</file>
+            <file>file:/E:/JAVA%20NANG%20CAO/web_nhahang%20PRO/src/java/control/chat/ChatEndpoint.java</file>
+            <file>file:/E:/JAVA%20NANG%20CAO/web_nhahang%20PRO/web/chat.jsp</file>
+            <file>file:/E:/JAVA%20NANG%20CAO/web_nhahang%20PRO/src/java/control/cart/AddtoCartAndBuy.java</file>
+            <file>file:/E:/JAVA%20NANG%20CAO/web_nhahang%20PRO/web/ManagerProduct.jsp</file>
+            <file>file:/E:/JAVA%20NANG%20CAO/web_nhahang%20PRO/src/java/control/cart/AddtoCartContriol.java</file>
+            <file>file:/E:/JAVA%20NANG%20CAO/web_nhahang%20PRO/src/java/control/cart/UpdateSoLuongcart.java</file>
+            <file>file:/E:/JAVA%20NANG%20CAO/web_nhahang%20PRO/src/java/control/KhachHang/CategryControl.java</file>
+            <file>file:/E:/JAVA%20NANG%20CAO/web_nhahang%20PRO/src/java/entity/NguoiDung.java</file>
+        </group>
+    </open-files>
+</project-private>
